@@ -2,6 +2,10 @@
 
 IP scanner for Radio Detection and Ranging.
 
+How to install 
+
+git clone https://github.com/Iankulani/IP_Scanner_for_Radar_System.git
+
 
 How to compile 
 
